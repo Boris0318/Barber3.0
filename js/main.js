@@ -8,7 +8,7 @@
 // ===================================
 const BARBER_CONFIG = {
     // Business Name
-    businessName: 'El Mexicano Barber Shop',
+    businessName: 'Barberia RDZ MX',
     
     // Contact Information
     
