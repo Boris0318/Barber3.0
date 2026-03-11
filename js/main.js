@@ -8,7 +8,7 @@
 // ===================================
 const BARBER_CONFIG = {
     // Business Name
-    businessName: 'Peluqueria Copilco',
+    businessName: 'El Mexicano Barber Shop',
     
     // Contact Information
     
