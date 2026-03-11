@@ -8,7 +8,7 @@
 // ===================================
 const BARBER_CONFIG = {
     // Business Name
-    businessName: 'Barber Spa Social Club',
+    businessName: 'Peluqueria Copilco',
     
     // Contact Information
     
